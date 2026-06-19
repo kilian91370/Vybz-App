@@ -1,0 +1,20 @@
+
+---
+
+# 📄 2. .gitignore
+
+```gitignore
+# Flutter
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+
+# Node
+node_modules/
+npm-debug.log
+.env
+
+# OS
+.DS_Store
